@@ -1,1 +1,2 @@
-# sampleapp
+# hellowhale
+Simple Docker Demo App
